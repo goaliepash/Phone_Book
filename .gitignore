@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Topics/Algorithms in Java/Find a value's index/out/
+/Topics/Algorithms in Java/Find a value's index/out/production/classes/
+/Topics/BigDecimal/Gold mining/out/
+/Topics/BigDecimal/Gold mining/out/production/classes/
+/Topics/Linear search in Java/Count elements of an array in another one/out/
+/Topics/Linear search in Java/Count elements of an array in another one/out/production/classes/
+/Topics/Linear search in Java/Search indexes of values in another array/out/
+/Topics/Linear search in Java/Search indexes of values in another array/out/production/classes/
+/Topics/Linear search in Java/The first occurrence in the subarray/out/
+/Topics/Linear search in Java/The first occurrence in the subarray/out/production/classes/
+/Topics/Linear search in Java/The index of the K occurrence/out/
+/Topics/Linear search in Java/The index of the K occurrence/out/production/classes/
